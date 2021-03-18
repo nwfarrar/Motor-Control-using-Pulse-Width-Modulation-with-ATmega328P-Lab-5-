@@ -1,0 +1,2 @@
+# Motor-Control-using-Pulse-Width-Modulation-with-ATmega328P-Lab-5-
+In this lab you will use the analog input developed in Lab 4 as a control signal for a permanent magnet DC motor. Based on the five stages of potentiometer reading outlined in Lab 4, the motor speed is to be controlled in five discrete steps: forward and backward slow, forward and backward fast, and stopped. You will still use LEDs to indicate the speed and direction settings of the motor.
